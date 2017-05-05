@@ -1,0 +1,21 @@
+{
+  "name": "brisum/wordpress-module-post-panel",
+  "description": "Wordpress module post panel",
+  "keywords": [
+    "wordpress"
+  ],
+  "homepage": "https://github.com/brisum/wordpress-module-post-panel",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Brisum\\Wordpress\\PostPanel\\": "src/"
+    }
+  }
+}
